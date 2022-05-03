@@ -1,1 +1,1 @@
-# iVote
+# Vote
